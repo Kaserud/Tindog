@@ -1,2 +1,1 @@
-# Tindog
-Dr Angel Yuu
+TinDog Starting Files
